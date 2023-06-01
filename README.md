@@ -46,9 +46,12 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![image](https://github.com/SamIsrael/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118707037/fbf03148-98f5-4277-a0d7-4cf329df06a4)
+![image](https://github.com/SamIsrael/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118707037/7accd435-7ce6-454d-b5db-6083f2c4f19d)
 
-### Name:
-### Register Number:
+
+### Name            : Sam Israel D
+### Register Number : 212222230128
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
